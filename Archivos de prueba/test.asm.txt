@@ -1,0 +1,7 @@
+Mov ax 5
+MoV Bx 3
+LOAD AX
+ADD bX
+SUB AX
+StorE AX
+MOV BX 10
