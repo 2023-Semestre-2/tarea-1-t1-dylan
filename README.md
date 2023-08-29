@@ -3,4 +3,4 @@
 ### [2018135751] [Dylan Stef Torres Walker]
 
 ### Estado del proyecto: 1
-### Enlace del video: (Si esto fue solicitado)
+### Enlace del video: https://www.youtube.com/watch?v=_LbKtv3NHsA
